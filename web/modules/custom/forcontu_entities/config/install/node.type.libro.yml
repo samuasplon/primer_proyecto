@@ -1,4 +1,4 @@
-langcode: es
+langcode: en
 status: true
 dependencies:
  module:
@@ -11,7 +11,7 @@ third_party_settings:
  available_menus:
  - main
  parent: 'main:'
-name: News
+name: Libro
 type: news
 description: 'Nuestro tipo de contenido excusivo para libros'
 help: ''
