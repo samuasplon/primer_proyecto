@@ -1,7 +1,0 @@
-libro1.article_description:
-  path: '/home/libro1'
-  defaults:
-    _controller: '\Drupal\libro1\Controller\Libro1Controller::page'
-    _title: 'La sombra del viento'
-  requirements:
-    _permission: 'access content'

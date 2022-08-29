@@ -1,7 +1,0 @@
-drupalup_links.default:
-  path: '/drupalup/menulinks'
-  defaults:
-    _title: 'Our Main link page'
-    _controller: '\Drupal\drupalup_links\Controller\DrupalUpLinksController::mainLinkPage'
-  requirements:
-    _permission: 'access content'

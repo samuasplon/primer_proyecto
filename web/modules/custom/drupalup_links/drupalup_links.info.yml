@@ -1,0 +1,4 @@
+name: Pestaña de contacto
+description: Añade la pestaña para acceder al formulario en el menú principal.
+type: module
+core: 8.x

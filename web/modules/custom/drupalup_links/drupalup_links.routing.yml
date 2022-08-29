@@ -1,0 +1,7 @@
+drupalup_links.default:
+  path: '/drupalup/Contacto'
+  defaults:
+    _title: 'Formulario de contacto'
+    _controller: '\Drupal\drupalup_links\Controller\DrupalUpLinksController::mainLinkPage'
+  requirements:
+    _permission: 'access content'
